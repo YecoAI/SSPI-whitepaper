@@ -15,7 +15,7 @@ Category: **Artificial Intelligence**
 
 The full whitepaper is distributed via **GitHub Releases** at the moment.
 
-[👉 **Download** ](https://github.com/YecoAI/sspi-whitepaper/releases/download/release/whitepaper_SSPI_HighMarkMarcoN.pdf) 
+[👉 **Download** ](https://github.com/YecoAI/SSPI-whitepaper/releases/download/release/whitepaper_SSPI_HighMarkMarcoN.pdf) 
 
 ---
 
